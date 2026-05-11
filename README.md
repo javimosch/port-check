@@ -7,3 +7,7 @@ sudo mv port-check-linux-amd64 /usr/local/bin/port-check
 ```
 Usage: `port-check google.com 80` → `OPEN`
 `port-check localhost 9999` → `CLOSED`
+
+---
+
+This tool is a plugin for [supercli](https://github.com/javimosch/supercli) — an AI-friendly, config-driven dynamic CLI platform.
